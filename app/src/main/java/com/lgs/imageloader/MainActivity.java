@@ -71,10 +71,9 @@ public class MainActivity extends AppCompatActivity {
             "http://img.my.csdn.net/uploads/201407/26/1406383290_1042.jpg",
             "http://img.my.csdn.net/uploads/201407/26/1406383275_3977.jpg",
             "http://img.my.csdn.net/uploads/201407/26/1406383265_8550.jpg",
-            // 以下三张为本地图片,本地图片支持uri格式，形如file:// + 图片绝对路径
             "file:///storage/emulated/0/Camera/P41115-140216.jpg",
             "file:///storage/emulated/0/Camera/P41115-142950.jpg",
             "file:///storage/emulated/0/Camera/P50102-133614.jpg",
-            "http://alipiba.com/image/not_found_haha.jpg" // 不存在的图片
+            "http://alipiba.com/image/not_found_haha.jpg"
     };
 }
